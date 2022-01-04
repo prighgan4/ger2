@@ -37,7 +37,7 @@ class BonusServiceTest {
     }
 
     @Test
-    void shouldCalculateRegistredFalseAndBonusUnderLimit() {
+    void shouldCalculateRegistredFalseAndBonsUnderLimit() {
         BonusService service = new BonusService();
 
         // подготавливаем данные:
